@@ -27,6 +27,8 @@ jhgjhgjgjhgjg<br>
 
 [yahoo](http://tw.yahoo.com)
 
+![骰子](img/06.png)
+
 ---
 
 ## 專案結構
