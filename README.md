@@ -27,7 +27,7 @@ jhgjhgjgjhgjg<br>
 
 [yahoo](http://tw.yahoo.com)
 
->![骰子](img/06.png)
+[^1]![骰子](img/06.png)
 <img src="img/06.png" alt="骰子" width="50" height="50">
 ---
 
