@@ -29,6 +29,8 @@ jhgjhgjgjhgjg<br>
 
     [^1]![骰子](img/06.png)
 <img src="img/06.png" alt="骰子" width="50" height="50">
+
+[![Start coding with JAVA in 10 minutes!](https://youtu.be/23HFxAPyJ9U?si=JwJMHS82JEpwsvfC)](https://youtu.be/23HFxAPyJ9U)
 ---
 
 ## 專案結構
