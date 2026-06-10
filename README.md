@@ -31,7 +31,7 @@ jhgjhgjgjhgjg<br>
 <img src="img/06.png" alt="骰子" width="50" height="50">
 
 [![Start coding with JAVA in 10 minutes!](https://img.youtube.com/vi/23HFxAPyJ9U/maxresdefault.jpg)](https://youtu.be/23HFxAPyJ9U)
-[![demo](https://img.youtube.com/vi/CLaIwJRqCFs/sddefault.jpg)](https://www.youtube.com/watch?v=CLaIwJRqCFs)
+[![demo](https://img.youtube.com/vi/CLaIwJRqCFs/maxresdefault.jpg)](https://www.youtube.com/watch?v=CLaIwJRqCFs)
 ---
 
 ## 專案結構
